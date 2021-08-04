@@ -1,2 +1,2 @@
 # AddressBook
-A simple example of how to make an address book web application
+A simple example of an address book web application
